@@ -77,3 +77,17 @@ element.previousElementSibling
 element.addEventListener("click", function(e){
 
 })
+
+deleting:
+var btns = document.querySelectorAll("#book-list .delete");
+
+Array.from(btns).forEach(function(btn){
+  btn.addEventListener("click", function(e){
+    const li = e.target.parentElement;
+    li.parentNode.removeChild(li)
+  });
+})
+
+link.addEventListener("click, function(e){
+  e.preventDefault(); - prevents a default operation on an element
+ })
