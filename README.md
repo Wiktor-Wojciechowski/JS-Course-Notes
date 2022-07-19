@@ -42,3 +42,5 @@ Example
 x.toString()
 (123).toString()
 (100 + 23).toString() 
+####################################
+Array.from(variable) - creates an array from variable
