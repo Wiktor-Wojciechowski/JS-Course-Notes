@@ -29,3 +29,16 @@ Number(" ")       // returns 0
 Number("")        // returns 0
 Number("99 88")   // returns NaN
 ####################################
+The global method String() can convert numbers to strings.
+
+It can be used on any type of numbers, literals, variables, or expressions:
+Example
+String(x)         // returns a string from a number variable x
+String(123)       // returns a string from a number literal 123
+String(100 + 23)  // returns a string from a number from an expression
+
+The Number method toString() does the same.
+Example
+x.toString()
+(123).toString()
+(100 + 23).toString() 
