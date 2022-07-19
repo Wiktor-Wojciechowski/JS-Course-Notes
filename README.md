@@ -69,3 +69,7 @@ element.parentNode - returns parent node of element
 element.parentElement - similar to parent node
 element.childNodes - returns every child of element
 element.children - returns html tags that are children of element
+element.nextSibling
+element.nextElementSibling 
+element.previousSibling
+element.previousElementSibling 
