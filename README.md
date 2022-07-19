@@ -91,3 +91,4 @@ Array.from(btns).forEach(function(btn){
 link.addEventListener("click, function(e){
   e.preventDefault(); - prevents a default operation on an element//https://www.youtube.com/watch?v=ndz6iH6o1ms&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V&index=9
  })
+![obraz](https://user-images.githubusercontent.com/109503651/179738368-ab209db2-7feb-4dc4-ac95-3a2c873d0762.png)
