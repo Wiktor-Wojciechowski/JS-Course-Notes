@@ -44,3 +44,11 @@ x.toString()
 (100 + 23).toString() 
 ####################################
 Array.from(variable) - creates an array from variable
+
+
+variable.forEach(function(item){
+// do smth
+});
+
+
+
