@@ -89,5 +89,5 @@ Array.from(btns).forEach(function(btn){
 })
 
 link.addEventListener("click, function(e){
-  e.preventDefault(); - prevents a default operation on an element
+  e.preventDefault(); - prevents a default operation on an element//https://www.youtube.com/watch?v=ndz6iH6o1ms&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V&index=9
  })
