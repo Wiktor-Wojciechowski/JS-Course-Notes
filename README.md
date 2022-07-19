@@ -73,3 +73,7 @@ element.nextSibling
 element.nextElementSibling 
 element.previousSibling
 element.previousElementSibling 
+
+element.addEventListener("click", function(e){
+
+})
