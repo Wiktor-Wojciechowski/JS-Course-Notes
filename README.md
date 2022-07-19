@@ -57,3 +57,4 @@ document.getElementById("id") - returns an elemnt by id
 document.querySelector("#id .class tag etc") - returns the first element of the selector
 document.querySelectorAll("selector") - returns a node list of elements of the selector
 
+Array.from(document.querySelectorAll(".class") - creates an array of elements with a class name class
