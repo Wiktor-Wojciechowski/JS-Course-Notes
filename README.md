@@ -60,3 +60,12 @@ document.querySelectorAll("selector") - returns a node list of elements of the s
 Array.from(document.querySelectorAll(".class") - creates an array of elements with a class name class
 
 element.textContent - gets the text inside of the html element
+element.innerHTML - gets the html text of the element
+
+
+###NODES
+
+element.parentNode - returns parent node of element
+element.parentElement - similar to parent node
+element.childNodes - returns every child of element
+element.children - returns html tags that are children of element
