@@ -58,3 +58,5 @@ document.querySelector("#id .class tag etc") - returns the first element of the 
 document.querySelectorAll("selector") - returns a node list of elements of the selector
 
 Array.from(document.querySelectorAll(".class") - creates an array of elements with a class name class
+
+element.textContent - gets the text inside of the html element
