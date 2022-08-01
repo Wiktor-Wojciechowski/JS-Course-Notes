@@ -98,7 +98,7 @@ element.setAttribute
 element.getAttribute
 element.hasAttribute
 
-
+to clear a form use .reset() function
 
 
 
